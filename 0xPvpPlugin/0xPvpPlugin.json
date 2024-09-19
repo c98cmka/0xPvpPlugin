@@ -1,0 +1,11 @@
+{
+  "Author": "0x",
+  "Name": "0xPvpPlugin",
+  "Punchline": "獭獭战场助手",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "AcceptsFeedback": false,
+  "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
+  "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin"
+}
