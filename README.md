@@ -10,8 +10,6 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 ## 功能列表
 
-
------------------------------
 ##### 职业相关:
 
 - 忍者
@@ -36,10 +34,7 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 - 修改垂直方向高度。
 
-- 永久防击退。 (无视DK马桶、战士死斗等吸引性位移)
-
-##### 战场雷达:
-- 整合 FrontlineRadar (https://github.com/c98cmka/FrontlineRadar)
+##### 战场雷达 (暂不可用):
 - 2D/3D 雷达
 - 小地图白点渲染周围敌人
 - 红圈显示地天武士
