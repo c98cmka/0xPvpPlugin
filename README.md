@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 - 修改垂直方向高度。
 
-##### 战场雷达 (暂不可用):
+##### 战场雷达:
 - 2D/3D 雷达
 - 小地图白点渲染周围敌人
 - 红圈显示地天武士
