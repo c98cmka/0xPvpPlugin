@@ -36,13 +36,13 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 ##### 打断热键:
 
-- 按住SHIFT
+- 按住 SHIFT 暂停释放 斩铁剑/星遁天诛
 
 ##### 战场雷达:
 - 2D/3D 雷达
-- 
+  
 - 小地图白点渲染周围敌人
-- 
+  
 - 红圈显示地天武士
-- 
+  
 - 绿圈显示可被斩铁剑秒杀的敌方目标
