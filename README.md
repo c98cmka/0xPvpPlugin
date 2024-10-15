@@ -30,6 +30,10 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 ##### 位移相关(风险自负):
 
+- 防击退（DK战士武僧机工画家）
+
+- 无视镰刀LB（偶尔也会无视舞者LB）
+
 - 修改移速。(过快会被90002)
 
 - 修改垂直方向高度。
