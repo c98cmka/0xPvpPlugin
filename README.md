@@ -1,4 +1,4 @@
-# 0xPvpPlugin
+# 0xPvpPlugin (在线安装Only)
 FFXIV 獭獭战场助手
 
 仅适用于FF14国服的PVP战场辅助插件。
