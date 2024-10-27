@@ -40,6 +40,17 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 - 按住 SHIFT 暂停释放 斩铁剑/星遁天诛
 
+##### 宏:
+
+- 战士
+  - 向能破到最多人的目标释放LB
+ 
+- 暗黑骑士
+  - 向能打到最多人的方向释放LB
+ 
+- 防击退
+  - 开启5秒后自动关闭
+
 ##### 战场雷达:
 - 2D/3D 雷达
   
