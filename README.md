@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
 ##### 打断热键:
 
-- 按住 SHIFT 暂停释放 斩铁剑/星遁天诛
+- 按住暂停释放 斩铁剑/星遁天诛 (默认左SHIFT)
 
 ##### 宏:
 
@@ -59,3 +59,5 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 - 红圈显示地天武士
   
 - 绿圈显示可被斩铁剑秒杀的敌方目标
+
+- 显示LB剩余积攒时间
