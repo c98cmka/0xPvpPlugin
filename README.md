@@ -8,6 +8,10 @@ FFXIV 獭獭战场助手
 https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.json
 ```
 
+似乎是被国服卫月BAN了，要继续用的话请先使用unban(下方二选一)
+- 使用UnbanPluginsCN(https://github.com/NightmareXIV/UnbanPluginsCN) ，在启动游戏前打开exe
+- 安装Dont Ban My Plugin插件(https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json) ，推荐这个
+
 ## 功能列表
 
 ##### 职业相关:
